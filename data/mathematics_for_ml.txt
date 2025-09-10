@@ -1,0 +1,85 @@
+Mathematics for AI and Machine Learning
+
+Linear Algebra Fundamentals
+
+Vectors and Vector Operations
+A vector is a mathematical object that has both magnitude and direction. In machine learning, vectors are used to represent data points, features, and parameters.
+
+Key Vector Operations:
+- Vector Addition: Adding corresponding elements
+- Scalar Multiplication: Multiplying each element by a scalar
+- Dot Product: Sum of products of corresponding elements
+- Cross Product: Vector perpendicular to two input vectors
+
+Matrices and Matrix Operations
+Matrices are rectangular arrays of numbers arranged in rows and columns. They are fundamental in representing and manipulating data in machine learning.
+
+Important Matrix Operations:
+- Matrix Addition and Subtraction
+- Matrix Multiplication
+- Transpose: Flipping rows and columns
+- Inverse: Matrix that when multiplied gives identity matrix
+- Determinant: Scalar value that represents matrix properties
+- Eigenvalues and Eigenvectors: Special vectors that don't change direction under transformation
+
+Calculus for Machine Learning
+
+Derivatives
+Derivatives measure how a function changes as its input changes. In machine learning, derivatives are crucial for optimization algorithms.
+
+Partial Derivatives
+When functions have multiple variables, partial derivatives show how the function changes with respect to one variable while keeping others constant.
+
+Chain Rule
+The chain rule is essential for backpropagation in neural networks, allowing us to compute gradients efficiently through complex function compositions.
+
+Gradient
+The gradient is a vector that points in the direction of steepest increase of a function. In machine learning, we often want to minimize functions, so we move in the opposite direction of the gradient.
+
+Probability and Statistics
+
+Probability Distributions
+- Normal Distribution: Bell-shaped curve, common in natural phenomena
+- Binomial Distribution: Discrete distribution for binary outcomes
+- Poisson Distribution: Models count of events in fixed intervals
+- Uniform Distribution: All outcomes equally likely
+
+Bayes' Theorem
+Bayes' theorem describes the probability of an event based on prior knowledge of conditions related to the event. It's fundamental in Bayesian machine learning approaches.
+
+Statistical Measures
+- Mean: Average value
+- Median: Middle value when sorted
+- Mode: Most frequent value
+- Variance: Measure of spread
+- Standard Deviation: Square root of variance
+- Correlation: Measure of linear relationship between variables
+
+Optimization in Machine Learning
+
+Gradient Descent
+Gradient descent is an optimization algorithm used to minimize cost functions by iteratively moving towards the minimum.
+
+Types of Gradient Descent:
+- Batch Gradient Descent: Uses entire dataset
+- Stochastic Gradient Descent: Uses one sample at a time
+- Mini-batch Gradient Descent: Uses small batches of data
+
+Learning Rate
+The learning rate determines the size of steps taken during optimization. Too large can overshoot minimum, too small can be very slow.
+
+Convex vs Non-Convex Optimization
+- Convex functions have a single global minimum
+- Non-convex functions may have multiple local minima
+- Neural networks typically involve non-convex optimization
+
+Information Theory
+
+Entropy
+Entropy measures the amount of uncertainty or randomness in information. In machine learning, it's used in decision trees and other algorithms.
+
+Mutual Information
+Mutual information quantifies the amount of information obtained about one random variable through observing another.
+
+Cross-Entropy
+Cross-entropy is commonly used as a loss function in classification problems, measuring the difference between predicted and actual probability distributions.

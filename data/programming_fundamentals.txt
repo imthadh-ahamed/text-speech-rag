@@ -1,0 +1,110 @@
+Programming Fundamentals
+
+Introduction to Programming
+Programming is the process of creating instructions for computers to execute. It involves breaking down complex problems into smaller, manageable tasks and expressing the solution in a language that computers can understand.
+
+Core Programming Concepts
+
+Variables and Data Types
+Variables are containers that store data values. Different programming languages support various data types:
+
+Primitive Data Types:
+- Integer: Whole numbers (e.g., 42, -17, 0)
+- Float/Double: Decimal numbers (e.g., 3.14, -2.5)
+- Boolean: True or false values
+- Character: Single letters or symbols
+- String: Sequences of characters
+
+Control Structures
+Control structures determine the flow of program execution:
+
+Conditional Statements:
+- if-else: Execute code based on conditions
+- switch/case: Multiple condition checking
+- Ternary operator: Shorthand conditional
+
+Loops:
+- for loop: Iterate a specific number of times
+- while loop: Continue while condition is true
+- do-while loop: Execute at least once, then check condition
+
+Functions and Methods
+Functions are reusable blocks of code that perform specific tasks:
+- Parameters: Input values passed to functions
+- Return values: Output from functions
+- Local vs Global scope: Variable accessibility
+- Recursion: Functions calling themselves
+
+Object-Oriented Programming (OOP)
+
+Classes and Objects
+- Class: Blueprint or template for creating objects
+- Object: Instance of a class with specific values
+- Constructor: Special method for initializing objects
+
+Core OOP Principles:
+1. Encapsulation: Bundling data and methods together
+2. Inheritance: Creating new classes based on existing ones
+3. Polymorphism: Same interface for different underlying forms
+4. Abstraction: Hiding complex implementation details
+
+Data Structures
+
+Arrays and Lists
+- Array: Fixed-size collection of elements
+- List: Dynamic collection that can grow/shrink
+- Index: Position of element in collection
+- Iteration: Processing each element
+
+Advanced Data Structures:
+- Stack: Last-In-First-Out (LIFO) structure
+- Queue: First-In-First-Out (FIFO) structure
+- Linked List: Elements connected through pointers
+- Hash Table: Key-value pair storage
+- Tree: Hierarchical data structure
+- Graph: Network of connected nodes
+
+Algorithms
+
+Sorting Algorithms:
+- Bubble Sort: Compare adjacent elements
+- Selection Sort: Find minimum and swap
+- Insertion Sort: Insert elements in correct position
+- Quick Sort: Divide and conquer approach
+- Merge Sort: Divide, sort, and merge
+
+Searching Algorithms:
+- Linear Search: Check each element sequentially
+- Binary Search: Divide search space in half
+
+Algorithm Analysis:
+- Time Complexity: How runtime scales with input size
+- Space Complexity: How memory usage scales
+- Big O Notation: Mathematical notation for complexity
+
+Software Development Best Practices
+
+Code Quality:
+- Readable and maintainable code
+- Meaningful variable and function names
+- Comments and documentation
+- Consistent formatting and style
+
+Testing:
+- Unit Testing: Testing individual components
+- Integration Testing: Testing component interactions
+- Debugging: Finding and fixing errors
+
+Version Control:
+- Git: Distributed version control system
+- Repositories: Storage for project files
+- Commits: Snapshots of project state
+- Branches: Parallel development paths
+
+Problem-Solving Approach:
+1. Understand the problem
+2. Break down into smaller parts
+3. Plan the solution
+4. Implement step by step
+5. Test and debug
+6. Optimize if needed
